@@ -1,2 +1,2 @@
-declare const _default: (waitingTime: number) => Promise<{}>;
+declare const _default: (waitingTime?: number) => Promise<{}>;
 export default _default;
