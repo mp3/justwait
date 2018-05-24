@@ -1,7 +1,7 @@
 ## Installation
 
 ```
-yarn add wait
+yarn add @itabashi/wait
 ```
 
 ## Usage
