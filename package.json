@@ -1,6 +1,6 @@
 {
   "name": "@itabashi/wait",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,5 +19,6 @@
   "homepage": "https://github.com/mp3/wait#readme",
   "devDependencies": {
     "typescript": "^2.8.3"
-  }
+  },
+  "dependencies": {}
 }
