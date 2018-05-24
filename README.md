@@ -7,7 +7,7 @@ yarn add wait
 ## Usage
 
 ```
-import wait from 'wait'
+import wait from '@itabashi/wait'
 
 // async/await
 await wait(4000) // will wait 4000ms
