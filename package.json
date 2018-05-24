@@ -1,5 +1,5 @@
 {
-  "name": "justwait",
+  "name": "wait",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mp3/justwait.git"
+    "url": "git+https://github.com/mp3/wait.git"
   },
   "author": "Takehiko Itabashi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mp3/justwait/issues"
+    "url": "https://github.com/mp3/wait/issues"
   },
-  "homepage": "https://github.com/mp3/justwait#readme",
+  "homepage": "https://github.com/mp3/wait#readme",
   "devDependencies": {
     "typescript": "^2.8.3"
   }

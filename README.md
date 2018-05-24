@@ -1,18 +1,18 @@
 ## Installation
 
 ```
-yarn add justwait
+yarn add wait
 ```
 
 ## Usage
 
 ```
-import justwait from 'justwait'
+import wait from 'wait'
 
 // async/await
-await justwait(4000) // will wait 4000ms
+await wait(4000) // will wait 4000ms
 
 // Promise
-justwait(4000).then(() => {
+wait(4000).then(() => {
   // do something
 })
